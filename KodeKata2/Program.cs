@@ -10,8 +10,8 @@ namespace KodeKata
     {
         static void Main(string[] args)
         {
-            var DayOne = new BinarySearchOne();
-            Console.WriteLine(DayOne.chop(5, new int[] {1, 5}).ToString());
+            var DayOne = new BinarySearchTwo();
+            Console.WriteLine(DayOne.chop(5, new int[] {1,5}).ToString());
 
             Console.ReadLine();
         }

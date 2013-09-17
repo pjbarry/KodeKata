@@ -8,12 +8,12 @@ using NUnit.Framework;
 namespace KodeKata
 {
     [TestFixture]
-    class BinarySearchOneTests :BinarySearchTests
+    class BinarySearchTwoTests :BinarySearchTests
     {
         [SetUp]
         public void Setup()
         {
-            _BS = new BinarySearchOne();
+            _BS = new BinarySearchTwo();
         }
     }
 }

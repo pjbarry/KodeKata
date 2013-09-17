@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace KodeKata
 {
-    class BinarySearchOne
+    class BinarySearchOne :BinarySearch
     {
-
+        //Iterative solution
         public int chop(int searchval, int[] searchdomain)
         {
             int pivot = (searchdomain.Length-1)/2;
@@ -42,5 +42,10 @@ namespace KodeKata
 
         
     }
-    
+
+    //interface for all approachs
+    public interface BinarySearch
+    {
+        int chop(int searchval, int[] searchdomain);
+    }
 }

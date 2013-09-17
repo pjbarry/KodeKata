@@ -47,6 +47,9 @@
     <Compile Include="BinarySearchOne.cs" />
     <Compile Include="BinarySearchOneTests.cs" />
     <Compile Include="BinarySearchTests.cs" />
+    <Compile Include="BinarySearch.cs" />
+    <Compile Include="BinarySearchThree.cs" />
+    <Compile Include="BinarySearchThreeTests.cs" />
     <Compile Include="BinarySearchTwo.cs" />
     <Compile Include="BinarySearchTwoTests.cs" />
     <Compile Include="Program.cs" />

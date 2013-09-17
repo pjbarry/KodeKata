@@ -1,7 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodeKata", "KodeKata.csproj", "{133379A8-E21C-4157-AA68-430B60641B54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodeKata3", "KodeKata3\KodeKata3.csproj", "{03E0885C-43FE-48C1-AF9F-04BBB8FA8223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodeKata2", "KodeKata2\KodeKata2.csproj", "{133379A8-E21C-4157-AA68-430B60641B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodeKata1", "KodeKata1\KodeKata1.csproj", "{993FA76C-D772-452E-BE36-D61C33105A05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodeKata4", "KodeKata4\KodeKata4.csproj", "{1FD32D24-6CDA-477B-988A-8C10634806A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +15,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E0885C-43FE-48C1-AF9F-04BBB8FA8223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E0885C-43FE-48C1-AF9F-04BBB8FA8223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E0885C-43FE-48C1-AF9F-04BBB8FA8223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E0885C-43FE-48C1-AF9F-04BBB8FA8223}.Release|Any CPU.Build.0 = Release|Any CPU
 		{133379A8-E21C-4157-AA68-430B60641B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{133379A8-E21C-4157-AA68-430B60641B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{133379A8-E21C-4157-AA68-430B60641B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{133379A8-E21C-4157-AA68-430B60641B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993FA76C-D772-452E-BE36-D61C33105A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993FA76C-D772-452E-BE36-D61C33105A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993FA76C-D772-452E-BE36-D61C33105A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993FA76C-D772-452E-BE36-D61C33105A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD32D24-6CDA-477B-988A-8C10634806A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD32D24-6CDA-477B-988A-8C10634806A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD32D24-6CDA-477B-988A-8C10634806A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD32D24-6CDA-477B-988A-8C10634806A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

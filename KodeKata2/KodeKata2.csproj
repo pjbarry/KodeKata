@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinarySearchFour.cs" />
+    <Compile Include="BinarySearchFourTests.cs" />
     <Compile Include="BinarySearchOne.cs" />
     <Compile Include="BinarySearchOneTests.cs" />
     <Compile Include="BinarySearchTests.cs" />

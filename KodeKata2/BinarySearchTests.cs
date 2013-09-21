@@ -2,7 +2,7 @@
 
 namespace KodeKata
 {
-    [Ignore]
+    [Explicit("Base Class not testable- paired with an interface")]
     public class BinarySearchTests
     {
         protected BinarySearch _BS;

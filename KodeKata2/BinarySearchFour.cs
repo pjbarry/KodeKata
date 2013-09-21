@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace KodeKata
 {
     class BinarySearchFour : BinarySearch
-    {
+    {  //attempting a functional solution
         public int chop(int searchval, int[] searchdomain)
         {
             throw new NotImplementedException();
